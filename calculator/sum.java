@@ -5,5 +5,4 @@ public class sum {
     int b = 0;
 
     int sum = a + b;
-
 }
